@@ -10,7 +10,7 @@ var ViewModel = function() {
             return 'Teen';
         }
     }, this);
-    this.imgSrc = ko.observable('img/434164568_fea0ad4013_z.jpg');
+    this.imgSrc = ko.observable('img/1.jpg');
     this.imgAttribution = ko.observable('https://www.flickr.com/photos/big');
 
     this.incrementCounter = function () {
